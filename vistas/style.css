@@ -1,0 +1,87 @@
+
+#central{
+	width: 1300px;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height:  700px;
+   
+
+}
+
+
+h1 {
+	color: red;
+    margin-left: 10px;
+}
+
+.login{
+	position: absolute;
+	/*border:5px solid black;*/
+	
+
+
+	border-radius: 10px;
+}
+
+#ingresa{
+	margin-top: 200px;
+	width: 300px;
+	height: 250px;
+	margin-left:  500px;
+}
+
+#registro{
+	margin-top: 20px;
+	margin-left:  450px;
+	height: 650px;
+	width: 400px;
+
+}
+
+#header{
+	
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 90px;
+	width: 500px;
+	height: 100px;
+}
+
+.panel{
+	margin-left: 50px;
+	font-family: roboto;
+	font-size: 20px;
+}
+
+
+#botonUno{
+	position: absolute;
+	margin-left: 1000px;
+}
+#botonDos{
+	position: absolute;
+	margin-left: 1100px;
+
+}
+
+#texto{
+	text-transform: capitalize;
+	font-size:25px;
+}
+
+#div_texto{
+	font-family: roboto;
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 150px;
+	direction:rtl;
+	width: 450px;
+}
+#imagen{
+	position: absolute;
+	margin-left: 90px;
+	margin-top: 150px;
+	direction:rtl;
+	width: 700px;
+}
